@@ -1,10 +1,10 @@
-##Description
+## Description
 >
 >突刺：如果此次攻击能将目标击杀，则不会受到任何伤害
 >
 > Choose a total of 3 structures and 6 units and 2 spells
 > 
-##Available Structures
+## Available Structures
 >
 > **小银行**
 > 
@@ -14,7 +14,7 @@
 >
 > **生命值	2/2/3 攻击力	1/2/2**
 >
-> **特性 	每个回合结束阶段, 获得 +1/2/3 金币**
+> *特性 	每个回合结束阶段, 获得 +1/2/3 金币*
 > 
 > **军械库**
 > 
