@@ -25,3 +25,4 @@
 >**Experience Points**:
 >Experience points that is specific to any Hero is used to determine the order of movement. The Hero of the highest Experience Points will be the one to start the game on the first turn.
 >
+>at the drawing phase, one can choose to spend 2 gold to reroll one core card into a hero card. Or to spend 5/7/10 gold to draw an extra card from the deck(maximum 3 per round)
