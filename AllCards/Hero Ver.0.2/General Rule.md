@@ -22,3 +22,6 @@
 >*Wonders deck*:
 >The Wonders deck contains all the wonders specialised for this ruler. At the start of the turn, one need to place all wonders into the wonder deck, shuffle and take out 6 wonders from it. 
 >
+>**Experience Points**:
+>Experience points that is specific to any Hero is used to determine the order of movement. The Hero of the highest Experience Points will be the one to start the game on the first turn.
+>
